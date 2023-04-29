@@ -1,2 +1,2 @@
 # Git
-second line
+conflict line
